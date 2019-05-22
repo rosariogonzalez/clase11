@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+h1, h2, h3{
+	font-family: 'Quicksand', sans-serif;	font-weight: 400;
+	letter-spacing: 0,1rem;
+}
+
+h1{
+	text-shadow: 1px 1px 1px black, -1px -1px 1px white;
+	font-size: 5rem;
+
+}
+
+div#mapid{
+   width: 100%; 
+   height: 100vh;"
+
+ }
+
+
+div#monito{
+	width: 100%;
+	height: 100vh;
+	background: gray;
+
+}
+
+
+
+
+
+
+
+
